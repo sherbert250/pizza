@@ -3,7 +3,3 @@ $(document).ready(function() {
     full_width: true
   });
 });
-
-$(document).ready(function() {
-  $('.carousel').carousel();
-});
